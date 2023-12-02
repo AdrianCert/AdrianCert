@@ -3,5 +3,5 @@
 You can find my Curriculum Vitae (or résumé) on the following link
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2535](https://github.com/vinta/awesome-python/pull/2535#issuecomment-1832226614) in [vinta/awesome-python](https://github.com/vinta/awesome-python)
+1. 💪 Opened PR [#12](https://github.com/osxbit/farm/pull/12) in [osxbit/farm](https://github.com/osxbit/farm)
 <!--END_SECTION:activity-->
