@@ -1,7 +1,11 @@
-# Adrian-Valentin Panaintescu (from ROU)
+# User
 
-You can find my Curriculum Vitae (or résumé) on the following link
+Hello! I'm User.
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/AdunSG/yaml-extender/issues/2#issuecomment-1721741811) in [AdunSG/yaml-extender](https://github.com/AdunSG/yaml-extender)
-<!--END_SECTION:activity-->
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
