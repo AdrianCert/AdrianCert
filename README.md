@@ -6,6 +6,6 @@ Hello! I'm User.
 
 This is a list of my most recent activity on GitHub.
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+</picture>
