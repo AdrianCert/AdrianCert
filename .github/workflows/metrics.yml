@@ -14,7 +14,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: "general.svg"
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_gist: ${{ secrets.GIST_COMMITER }}
+          output_action: gist
 
           base: header, activity, community, repositories, metadata
           base_indepth: yes
